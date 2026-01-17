@@ -33,10 +33,14 @@ Sistema Operacional macOS
 O projeto foi organizado com a seguinte estrutura de diretórios e arquivos:
 
 flask-docker-app/
-├── Dockerfile
-├── README.md
-├── app.py
-└── requirements.txt
+
+Dockerfile
+
+README.md
+
+app.py
+
+requirements.txt
 
 Cada arquivo possui uma função específica:
 
